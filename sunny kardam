@@ -1,0 +1,271 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>Biodiversity</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- bootstrap css -->
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <!-- style css -->
+      <link rel="stylesheet" href="css/style.css">
+      <!-- Responsive-->
+      <link rel="stylesheet" href="css/responsive.css">
+      <!-- fevicon -->
+      <link rel="icon" href="images/fevicon.png" type="image/gif" />
+      <!-- Scrollbar Custom CSS -->
+      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+      <!-- Tweaks for older IEs-->
+      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+   </head>
+   <!-- body -->
+   <body class="main-layout">
+      <!-- loader  -->
+      <!-- <div class="loader_bg">
+         <div class="loader"><img src="images/loading.gif" alt="#" /></div>
+      </div> -->
+      <!-- end loader -->
+      <!-- banner -->
+      <section class="banner_main">
+         <div class="container-fluid">
+            <div class="row d_flex ">
+               <div class="col-xl-4 col-lg-4 col-md-12">
+                  <div class="banner_main_text">
+                     <img class="logo" src="images/logo1.png" alt="#"/>
+                     <div class="titlepage">
+                        <h2>Biodiversity<br> Conversation<br>Programs<br>in India</h2>
+                        <p>India, with its diverse geography and climate, boasts a rich tapestry of biodiversity. From the towering Himalayas to the expansive coastline,</p>
+                        <a class="read_more" href="#">Read More</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-8 col-lg-8 col-md-12 padding_right">
+                  <div class="banner_main_img">
+                     <figure><img src="images/our_img1.jpg" alt="#"/>
+                        <h3><i><b>Biodiversity</b></i></h3>
+                     </figure> 
+
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- end banner -->
+      <!-- about -->
+      <div id="about"  class="about">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-xl-7 col-lg-7 col-md-12 padding_lert">
+                  <div class="about_img">
+                     <figure><img src="images/about_img.jpg" alt="#"/></figure>
+                  </div>
+               </div>
+               <div class="col-xl-5 col-lg-5 col-md-12">
+                  <div class="about_text">
+                     <div class="titlepage">
+                        <h2>Threats to Biodiversity</h2>
+                        <p>Despite its rich natural heritage, India's biodiversity faces numerous threats. Rapid urbanization, deforestation, habitat degradation, pollution, over-exploitation of resources, and climate change have significantly. These threats have highlighted the urgent need for comprehensive conservation programs to safeguard India's unique natural heritage.</p>
+                        <a class="read_more" href="#">Read More</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- end about -->
+      <!-- our -->
+      <div id="our"  class="our">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-xl-5 col-lg-5 col-md-12 order_2">
+                  <div class="our_text">
+                     <div class="titlepage">
+                        <h2>Conservation Initiatives in India</h2>
+                        <p>India has made commendable strides in biodiversity conservation through various government and non-governmental initiatives. Notably, the country has established. Furthermore, several research institutions and organizations actively work towards promoting sustainable practices and raising awareness about the importance of biodiversity conservation.</p>
+                        <a class="read_more" href="#">Read More</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-7 col-lg-7 col-md-12 padding_right order_1">
+                  <div class="our_img">
+                     <figure><img src="images/our_img.jpg" alt="#"/></figure>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- end our -->
+      <!-- our_fruit -->
+      <div id="our_fruit"  class="our_fruit">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-xl-7 col-lg-7 col-md-12 padding_lert">
+                  <div class="row">
+                     <div class="col-md-6 padd_lrri">
+                        <div class="our_fruit_img">
+                           <figure><img src="images/veg_1.jpg" alt="#"/></figure>
+                        </div>
+                     </div>
+                     <div class="col-md-6 padd_lrri">
+                        <div class="our_fruit_img">
+                           <figure><img src="images/veg_2.jpg" alt="#"/></figure>
+                        </div>
+                     </div>
+                     <div class="col-md-6 padd_lrri">
+                        <div class="our_fruit_img">
+                           <figure><img src="images/veg_3.jpg" alt="#"/></figure>
+                        </div>
+                     </div>
+                     <div class="col-md-6 padd_lrri">
+                        <div class="our_fruit_img">
+                           <figure><img src="images/veg_4.jpg" alt="#"/></figure>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-5 col-lg-5 col-md-12">
+                  <div class="our_fruit_text">
+                     <div class="titlepage">
+                        <h2>Our Commitment <br> to <br> Biodiversity Conservation</h2>
+                        <p>we recognize the critical importance of biodiversity conservation in India. Through our efforts and collaborations with local communities and conservation partners, we strive to contribute to the preservation and sustainable management of India's natural heritage. Join us in our mission to protect and nurture the incredible biodiversity that defines our nation.</p>
+                        <a class="read_more" href="#">Read More</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- end our_fruit -->
+      <!-- testimonial -->
+      <div class="testimonial">
+         <div class="container-fluid ">
+            <div class="row d_flex ">
+               <div class="col-xl-5 col-lg-5 col-md-12 order_2">
+                  <div class="testimonial_box">
+                     <div class="titlepage">
+                        <h2>Sustainable Resource <br>Management</h2>
+                     </div>
+                     <p>TEK emphasizes the sustainable management of natural resources, promoting practices that ensure the longevity of ecosystems and the species they support. Indigenous communities have long employed traditional methods of agriculture, forestry, and water management that promote biodiversity conservation while addressing the needs of local communities.</p>
+                  </div>
+               </div>
+               <div class="col-xl-7 col-lg-7 col-md-12 padding_right order_1">
+                  <div id="myCarousel" class="carousel slide testimonial_Carousel " data-ride="carousel">
+                     <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                     </ol>
+                     <div class="carousel-inner">
+                        <div class="carousel-item active">
+                           <div class="container">
+                              <div class="carousel-caption ">
+                                 <div class="row">
+                                    <div class="col-md-12 ">
+                                       <div class="test_box">
+                                          <h4>Preserving Indigenous Wisdom</h4>
+                                          <p>India has a rich history of traditional ecological knowledge (TEK) that has been passed down through generations. This invaluable knowledge, derived from indigenous communities and local populations. 
+                                          </p>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-md-12 ">
+                                       <div class="test_box">
+                                          <h4>Conserving Biodiversity Hotspots</h4>
+                                          <p>Many biodiversity hotspots in India coincide with areas inhabited by indigenous communities. These communities have developed a profound understanding of the local flora and fauna, often incorporating this knowledge.
+                                          </p>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-md-12 ">
+                                       <div class="test_box">
+                                          <h4>Community-Led Conservation Initiatives</h4>
+                                          <p>Empowering local communities through the integration of TEK in conservation initiatives can lead to more effective, community-led efforts. Recognizing the role of indigenous knowledge holders as stewards . 
+                                          </p>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Previous</span>
+                     </a>
+                     <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Next</span>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- end testimonial -->
+      <!--  footer -->
+      <footer>
+         <div class="footer">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-12">
+                     <div class="cont">
+                        <h3>Hope You Like It💜</h3>
+                        <p>Thank you for exploring India's vibrant biodiversity and the critical conservation initiatives that safeguard its natural heritage.  <br>
+                           Let's continue to cherish and preserve our rich ecosystems, uniting in the spirit of sustainable stewardship for future generations
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="copyright">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-12">
+                        <p>Copyright 2019 All Right Reserved By <a href="https://html.design/"> Yogender Sharma</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- end footer -->
+      <!-- Javascript files-->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/jquery-3.0.0.min.js"></script>
+      <script src="js/plugin.js"></script>
+      <!-- sidebar -->
+      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="js/custom.js"></script>
+      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+   </body>
+</html>
+
